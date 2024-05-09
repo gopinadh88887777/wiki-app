@@ -1,0 +1,63 @@
+.container{
+display: flex;
+justify-content: center;
+margin: 50px;
+text-align: center;
+}
+.image{
+   height: 250px;
+   width: 250;
+   border-style: groove;
+   border-color: black;
+   border-top-right-radius: 26px;
+   border-top-left-radius: 26px;
+   border-radius:26px;
+}
+.chiru{
+   margin: 12px;
+   background-color: rgb(220, 231, 231);
+   border-style: groove;
+   border-color: rgb(0, 0, 0);
+   border-radius: 26px;
+}
+.pspk{
+   margin: 12px;
+   background-color: rgb(255, 255, 254);
+   border-style: groove;
+   border-color: rgb(0, 0, 0);
+   border-radius: 26px;
+}
+.rgv{
+   margin: 12px;
+   background-color: rgb(255, 255, 255);
+   border-style: groove;
+   border-color: rgb(0, 0, 0);
+   border-radius: 26px;
+}
+.head{
+   font-size: 20px;
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: bold;
+   color: black;
+   text-decoration: underline;
+   margin: 20px;
+   padding-left: 20px;
+
+}
+.para{
+   font-size: 18px;
+   font-style: normal;
+   color:slategray;
+}
+.btn{
+   height: 30px;
+   width: 120px;
+   border-style: inset;
+   border-color: black;
+   border-radius: 36px;
+   text-align: center;
+   color: white;
+   background-color: black;
+  margin-bottom: 10px;
+}
